@@ -1,4 +1,4 @@
-# Cloudflare-Workers-Tarpit
+# Cloudflare-Workers-Tarpit, Credit to <a href="https://www.linkedin.com/in/willsmithee" target="_blank">Will Smithee</a>
 Cloudflare Workers script that can Tarpit requests, useful for black-holing bad bots.
 
 ```
